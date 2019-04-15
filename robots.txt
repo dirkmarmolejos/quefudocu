@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://geiquaimi.reliablecomputing.eu/sitemap.xml
